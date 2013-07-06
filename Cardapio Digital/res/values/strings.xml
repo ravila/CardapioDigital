@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CardapioDigital</string>
+    <string name="subcat1">Sub Categoria 1</string>
+    <string name="subcat2">Sub Categoria 2</string>
+    <string name="subcat3">Sub Categoria 3</string>
+    <string name="subcat4">Sub Categoria 4</string>
+    <string name="subcat5">Sub Categoria 5</string>
+    <string name="subcat6">Sub Categoria 6</string>
+    <string name="subcat7">Sub Categoria 7</string>
+    <string name="subcat8">Sub Categoria 8</string>
+    <string name="cat1">Categoria 1</string>
+    <string name="cat2">Categoria 2</string>
+    <string name="cat3">Categoria 3</string>
+    <string name="cat4">Categoria 4</string>
+
+    <string name="btChamarGarcon">Chamar Garçon</string>
+    <string name="btInicio">Início</string>
+    
+</resources>

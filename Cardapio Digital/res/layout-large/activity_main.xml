@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/llHeader"
+        layout="@layout/header_main" />
+    
+    <include
+        android:id="@+id/llMenuContent"
+        layout="@layout/menu_content" />
+    
+    <include
+        android:id="@+id/llFooter"
+        layout="@layout/footer_main" />
+    
+</LinearLayout>
